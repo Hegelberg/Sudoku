@@ -1,3 +1,4 @@
+const Board = require("./Board.js"); 
 var canvas = document.getElementById('cells'),
 	cv = canvas.getContext('2d'),
 	WIDTH = 420,
