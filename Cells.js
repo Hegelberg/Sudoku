@@ -6,4 +6,4 @@ class Cells {
 		this.xY = 47 * (Math.floor(pos / 9) + 1);
 	}
 }
-module.exports=cells
+module.exports=Cells;
